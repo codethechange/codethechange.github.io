@@ -37,7 +37,7 @@
       </div>
     </div>
     <div id="info">
-      <h6> Stanford Code the Change ©️2019 </h6>
+      <h6> Stanford Code the Change ©️2019. We use Google Analytics to collect anonymized website traffic statistics. </h6>
     </div>
   </div>
 </template>
