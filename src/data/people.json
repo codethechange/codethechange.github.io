@@ -89,6 +89,16 @@
         "name": "Chris Skalnik",
         "role": "Co-President/Team Lead"
     },
+    "cynthiachen": {
+        "imageSrc": "./assets/cynthias_photo.jpg",
+        "links": {
+            "email": "cchen24@stanford.edu",
+            "github": "https://github.com/cynthiachen7",
+            "linkedin": "https://www.linkedin.com/in/cynthia-chen-173803166/"
+        },
+        "name": "Cynthia Chen",
+        "role": "Developer"
+    }, 
     "drew": {
         "leadership": true,
         "imageSrc": "./assets/drew_photo.jpg",
