@@ -23,7 +23,7 @@
     <div class="intro" id="current-intro">
       <h1 id="hook">Current projects</h1>
       <p class="hook-sub">
-        Here are our in-progress projects for the 2020-21 academic year.
+        Here are our in-progress projects for the 2021-2022 academic year.
       </p>
     </div>
     <div class="row" id="current-projects">

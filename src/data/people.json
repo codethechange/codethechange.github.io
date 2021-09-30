@@ -36,7 +36,7 @@
         },
         "name": "Anthony Perez",
         "leadership": true,
-        "role": "Financial Officer/Design Lead"
+        "role": "Co-President/Team Lead"
     },
     "austinryanchow": {
         "imageSrc": "./assets/austinchow.jpg",
@@ -85,7 +85,6 @@
             "github": "https://github.com/U8NWXD",
             "linkedin": "https://www.linkedin.com/in/christopher-skalnik"
         },
-        "leadership": true,
         "name": "Chris Skalnik",
         "role": "Co-President/Team Lead"
     },
@@ -100,7 +99,6 @@
         "role": "Developer"
     }, 
     "drew": {
-        "leadership": true,
         "imageSrc": "./assets/drew_photo.jpg",
         "links": {
             "email": "mailto:drewgreg@stanford.edu",
@@ -227,7 +225,8 @@
             "linkedin": "https://www.linkedin.com/in/james-zheng2/"
         },
         "name": "James Zheng",
-        "role": "Developer"
+        "leadership": true,
+        "role": "Financial Officer/Team Lead"
     },    
     "jasonzhao": {
         "imageSrc": "./assets/jason_zhao_photo.JPG",
@@ -335,7 +334,7 @@
         },
         "name": "Nadin Tamer",
         "leadership": true,
-        "role": "Social Coordinator/Developer"
+        "role": "Co-President/Team Lead"
     },
     "raymondyao": {
         "imageSrc": "./assets/raymond_yao_photo.jpg",
