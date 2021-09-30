@@ -129,7 +129,7 @@ export default {
             this.submitting = false
             if (res.error) {
               this.finishedTitle = 'Form Submission Error. '
-              this.finishedMessage = 'Unfortunately, we\'ve encountered some server error. Please email drewgreg [at] stanford [dot] edu with your form contents.'
+              this.finishedMessage = 'Unfortunately, we\'ve encountered some server error. Please email nadint [at] stanford [dot] edu with your form contents.'
             } else {
               this.finishedTitle = 'Form Submitted!'
               this.finishedMessage = 'Thank you for reaching out. We will get back to you if we think your project is a good fit.'
@@ -140,7 +140,7 @@ export default {
               this.submitted = true
               this.submitting = false
               this.finishedTitle = 'Form Submission Error. '
-              this.finishedMessage = 'Unfortunately, we\'ve encountered some server error. Please email drewgreg [at] stanford [dot] edu with your form contents.'
+              this.finishedMessage = 'Unfortunately, we\'ve encountered some server error. Please email nadint [at] stanford [dot] edu with your form contents.'
             }
           })
       }

@@ -26,7 +26,7 @@ Next, automatically get the correct environment by running `pipenv shell` within
 
 ### A Quick Overview of `projects.json`
 All the project UI is loaded from one JSON array: `src/data/projects.json`.
-For each project is a JSON objcet with the following structure:
+For each project is a JSON object with the following structure:
 - background: The main iconography for the project. It should be a file path to an image within the `public/assets` folder.
 - bullets: A JSON string array that summarizes the work in a couple bullet points. This will be displayed in the profile listing in the top card.
 - featured: a boolean that determines whether this project will be displayed.
@@ -60,4 +60,4 @@ python add_images_to_project.py [name] [path_to_image_file] [caption]
 ```
 The `[name]` field should correspond to the same field in the JSON object described above, and the `[caption]` field should be the string that you want to be displayed under the image to give it context.
 
-If you have any questions, feel free to contact [drewgreg@stanford.edu]
+If you have any questions, feel free to contact [aperez01@stanford.edu] or [nadint@stanford.edu].
