@@ -12,9 +12,9 @@
         <VueShowdown markdown="
 # Introduction
 
-Welcome to the 2021 Code the Change onboarding process! As part of your first task, you will create a simple tic-tac-toe game in a JavaScript-supported browser. We won’t require you to use a specific framework, but the following guide will strongly emphasize the use of React with Hooks.
+Welcome to the 2022 Code the Change onboarding process! As part of your first task, you will create a simple tic-tac-toe game in a JavaScript-supported browser. We won’t require you to use a specific framework, but the following guide will strongly emphasize the use of React with Hooks.
 
-Please join the `#start-the-change-2021` channel on Slack. Here you'll be able to ask questions about the project, get help, and see other members' questions. We encourage you to answer questions in that channel too!
+Please join the `#start-the-change-2022` channel on Slack. Here you'll be able to ask questions about the project, get help, and see other members' questions. We encourage you to answer questions in that channel too!
 
 ## Our Goals
 
@@ -44,7 +44,7 @@ Luckily, with the recent introduction of [Hooks](https://reactjs.org/docs/hooks-
 
 ## Getting Started
 
-Please clone the [repository for the starter code](https://github.com/codethechange/code-the-change-starter-2021) and follow the setup instructions in `README.md`. Most (if not all) of your code will be written in the src folder. The files that we expect you to need are `components/Square.js`, `components/Board.js`, `components/Game.js`, `calculate_win.js`, and `index.css`. Nonetheless, feel free to add helper files.
+Please clone the [repository for the starter code](https://github.com/codethechange/code-the-change-starter-2022) and follow the setup instructions in `README.md`. Most (if not all) of your code will be written in the src folder. The files that we expect you to need are `components/Square.js`, `components/Board.js`, `components/Game.js`, `calculate_win.js`, and `index.css`. Nonetheless, feel free to add helper files.
 
 If you have trouble at any point throughout this process, please reach out! Part of this task will be to learn how to ask for help and find the right questions to ask. Regardless of your experience with software development, you may find some aspects of these projects difficult. It is totally normal to hit roadblocks on the road to completion, and we want to make sure that you get over the finish line. Good luck!
 
