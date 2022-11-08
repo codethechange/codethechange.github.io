@@ -1,460 +1,569 @@
 {
-    "alexhurtado": {
-        "imageSrc": "./assets/alex_hurtado_photo.png",
-        "links": {
-            "email": "hurtado@stanford.edu",
-            "github": "https://github.com/alexanderjhurtado",
-            "linkedin": "https://www.linkedin.com/in/alexander-hurtado/"
-        },
-        "name": "Alex Hurtado",
-        "role": "Developer"
+    "alexhurtado":{
+       "imageSrc":"./assets/alex_hurtado_photo.png",
+       "links":{
+          "email":"hurtado@stanford.edu",
+          "github":"https://github.com/alexanderjhurtado",
+          "linkedin":"https://www.linkedin.com/in/alexander-hurtado/"
+       },
+       "name":"Alex Hurtado",
+       "role":"Developer",
+       "past":true
     },
-    "amitagondi": {
-        "imageSrc": "./assets/Amita_Gondi.jpg",
-        "links": {
-            "email": "agondi@stanford.edu",
-            "github": "https://github.com/agondi",
-            "linkedin": "https://www.linkedin.com/in/amita-gondi/"
-        },
-        "name": "Amita Gondi",
-        "role": "Developer"
+    "amitagondi":{
+       "imageSrc":"./assets/Amita_Gondi.jpg",
+       "links":{
+          "email":"agondi@stanford.edu",
+          "github":"https://github.com/agondi",
+          "linkedin":"https://www.linkedin.com/in/amita-gondi/"
+       },
+       "name":"Amita Gondi",
+       "role":"Developer",
+       "past":true
     },
-    "andyjin": {
-        "imageSrc": "./assets/andy_jin_photo.jpg",
-        "links": {
-            "email": "andyjin@stanford.edu",
-            "linkedin": "https://www.linkedin.com/in/andygjin/"
-        },
-        "name": "Andy Jin",
-        "role": "Developer"
+    "andyjin":{
+       "imageSrc":"./assets/andy_jin_photo.jpg",
+       "links":{
+          "email":"andyjin@stanford.edu",
+          "linkedin":"https://www.linkedin.com/in/andygjin/"
+       },
+       "name":"Andy Jin",
+       "role":"Developer",
+       "past":true
     },
-    "anthonyperez": {
-        "imageSrc": "./assets/anthony_perez_photo.jpg",
-        "links": {
-            "email": "aperez01@stanford.edu",
-            "github": "https://github.com/anthonyaperez"
-        },
-        "name": "Anthony Perez",
-        "leadership": true,
-        "role": "Co-President/Team Lead"
+    "anthonyperez":{
+       "imageSrc":"./assets/anthony_perez_photo.jpg",
+       "links":{
+          "email":"aperez01@stanford.edu",
+          "github":"https://github.com/anthonyaperez"
+       },
+       "name":"Anthony Perez",
+       "leadership":true,
+       "role":"Co-President/Team Lead",
+       "past":true
     },
-    "austinryanchow": {
-        "imageSrc": "./assets/austinchow.jpg",
-        "links": {
-            "email": "archow@stanford.edu",
-            "github": "https://github.com/austinrchow",
-            "linkedin": "https://www.linkedin.com/in/austinrchow/"
-        },
-        "name": "Austin Ryan Chow",
-        "role": "Developer"
+    "austinryanchow":{
+       "imageSrc":"./assets/austinchow.jpg",
+       "links":{
+          "email":"archow@stanford.edu",
+          "github":"https://github.com/austinrchow",
+          "linkedin":"https://www.linkedin.com/in/austinrchow/"
+       },
+       "name":"Austin Ryan Chow",
+       "role":"Developer",
+       "past":true
     },
-    "avigupta": {
-        "imageSrc": "./assets/aviportrait2020.jpg",
-        "links": {
-            "email": "agupta07@stanford.edu",
-            "github": "https://github.com/aguptamusic",
-            "linkedin": "https://www.linkedin.com/in/ag2023/"
-        },
-        "name": "Avi Gupta",
-        "role": "Developer"
+    "avigupta":{
+       "imageSrc":"./assets/aviportrait2020.jpg",
+       "links":{
+          "email":"agupta07@stanford.edu",
+          "github":"https://github.com/aguptamusic",
+          "linkedin":"https://www.linkedin.com/in/ag2023/"
+       },
+       "name":"Avi Gupta",
+       "role":"Developer",
+       "past":true
     },
-    "ayushsingla": {
-        "imageSrc": "./assets/ayush_singla_two.jpg",
-        "links": {
-            "email": "ayushsn@stanford.edu",
-            "github": "https://github.com/singlaayush",
-            "linkedin": "https://www.linkedin.com/in/ayush-singla/"
-        },
-        "name": "Ayush Singla",
-        "role": "Developer"
+    "ayushsingla":{
+       "imageSrc":"./assets/ayush_singla_two.jpg",
+       "links":{
+          "email":"ayushsn@stanford.edu",
+          "github":"https://github.com/singlaayush",
+          "linkedin":"https://www.linkedin.com/in/ayush-singla/"
+       },
+       "name":"Ayush Singla",
+       "role":"Developer",
+       "past":true
     },
-    "charlespan": {
-        "imageSrc": "./assets/charlespanprofilepic.jpeg",
-        "links": {
-            "email": "cpan22@stanford.edu",
-            "github": "https://github.com/ceefryingpan",
-            "linkedin": "https://www.linkedin.com/in/charleslpan/"
-        },
-        "name": "Charles Pan",
-        "role": "Developer"
+    "charlespan":{
+       "imageSrc":"./assets/charlespanprofilepic.jpeg",
+       "links":{
+          "email":"cpan22@stanford.edu",
+          "github":"https://github.com/ceefryingpan",
+          "linkedin":"https://www.linkedin.com/in/charleslpan/"
+       },
+       "name":"Charles Pan",
+       "role":"Developer",
+       "past":true
     },
-    "chris": {
-        "imageSrc": "./assets/chris_photo.jpg",
-        "links": {
-            "email": "chrisskalnik@stanford.edu",
-            "github": "https://github.com/U8NWXD",
-            "linkedin": "https://www.linkedin.com/in/christopher-skalnik"
-        },
-        "name": "Chris Skalnik",
-        "role": "Co-President/Team Lead"
+    "chris":{
+       "imageSrc":"./assets/chris_photo.jpg",
+       "links":{
+          "email":"chrisskalnik@stanford.edu",
+          "github":"https://github.com/U8NWXD",
+          "linkedin":"https://www.linkedin.com/in/christopher-skalnik"
+       },
+       "name":"Chris Skalnik",
+       "role":"Co-President/Team Lead",
+       "past":true,
+       "leadership":true
     },
-    "cynthiachen": {
-        "imageSrc": "./assets/cynthias_photo.jpg",
-        "links": {
-            "email": "cchen24@stanford.edu",
-            "github": "https://github.com/cynthiachen7",
-            "linkedin": "https://www.linkedin.com/in/cynthia-chen-173803166/"
-        },
-        "name": "Cynthia Chen",
-        "role": "Developer"
-    }, 
-    "drew": {
-        "imageSrc": "./assets/drew_photo.jpg",
-        "links": {
-            "email": "mailto:drewgreg@stanford.edu",
-            "github": "https://github.com/DrewGregory/",
-            "linkedin": "https://www.linkedin.com/in/drew-gregory/"
-        },
-        "name": "Drew Gregory",
-        "role": "Co-President/Team Lead"
+    "cynthiachen":{
+       "imageSrc":"./assets/cynthias_photo.jpg",
+       "links":{
+          "email":"cchen24@stanford.edu",
+          "github":"https://github.com/cynthiachen7",
+          "linkedin":"https://www.linkedin.com/in/cynthia-chen-173803166/"
+       },
+       "name":"Cynthia Chen",
+       "role":"Developer",
+       "past":true
     },
-    "dylancunningham": {
-        "imageSrc": "./assets/dylan_cunningham.jpg",
-        "links": {
-            "email": "dcunningham@stanford.edu"
-        },
-        "name": "Dylan Cunningham",
-        "role": "Developer"
+    "drew":{
+       "imageSrc":"./assets/drew_photo.jpg",
+       "links":{
+          "email":"mailto:drewgreg@stanford.edu",
+          "github":"https://github.com/DrewGregory/",
+          "linkedin":"https://www.linkedin.com/in/drew-gregory/"
+       },
+       "name":"Drew Gregory",
+       "role":"Co-President/Team Lead",
+       "past":true,
+       "leadership":true
     },
-    "dylangrosz": {
-        "imageSrc": "./assets/dylan_grosz_photo.jpg",
-        "links": {
-            "email": "dgrosz@stanford.edu",
-            "github": "https://github.com/dylangrosz",
-            "linkedin": "https://www.linkedin.com/in/dylangrosz/"
-        },
-        "name": "Dylan Grosz",
-        "role": "Developer"
+    "dylancunningham":{
+       "imageSrc":"./assets/dylan_cunningham.jpg",
+       "links":{
+          "email":"dcunningham@stanford.edu"
+       },
+       "name":"Dylan Cunningham",
+       "role":"Developer",
+       "past":true
     },
-    "ericlou": {
-        "imageSrc": "./assets/eric_lou_photo.jpg",
-        "links": {
-            "email": "erlou@stanford.edu",
-            "github": "https://github.com/ezl-13"
-        },
-        "name": "Eric Lou",
-        "role": "Team Lead"
+    "dylangrosz":{
+       "imageSrc":"./assets/dylan_grosz_photo.jpg",
+       "links":{
+          "email":"dgrosz@stanford.edu",
+          "github":"https://github.com/dylangrosz",
+          "linkedin":"https://www.linkedin.com/in/dylangrosz/"
+       },
+       "name":"Dylan Grosz",
+       "role":"Developer",
+       "past":true
     },
-    "ericzhou": {
-        "imageSrc": "./assets/eric_zhou.jpg",
-        "links": {
-            "email": "ericzhou@stanford.edu",
-            "github": "https://github.com/ericzhou27",
-            "linkedin": "www.linkedin.com/in/ericzhou27"
-        },
-        "name": "Eric Zhou",
-        "role": "Developer"
+    "ericlou":{
+       "imageSrc":"./assets/eric_lou_photo.jpg",
+       "links":{
+          "email":"erlou@stanford.edu",
+          "github":"https://github.com/ezl-13"
+       },
+       "name":"Eric Lou",
+       "role":"Team Lead",
+       "past":true,
+       "leadership":true
     },
-    "farzaankaiyom": {
-        "imageSrc": "./assets/farzaan_photo.jpg",
-        "links": {
-            "email": "fkaiyom@gmail.com",
-            "github": "https://github.com/farzaank",
-            "linkedin": "https://www.linkedin.com/in/farzaankaiyom/"
-        },
-        "name": "Farzaan Kaiyom",
-        "role": "Team Lead"
+    "ericzhou":{
+       "imageSrc":"./assets/eric_zhou.jpg",
+       "links":{
+          "email":"ericzhou@stanford.edu",
+          "github":"https://github.com/ericzhou27",
+          "linkedin":"www.linkedin.com/in/ericzhou27"
+       },
+       "name":"Eric Zhou",
+       "role":"Developer",
+       "past":true
     },
-    "gabrielacortes": {
-        "imageSrc": "./assets/gabriela_cortes_photo.jpg",
-        "links": {
-            "email": "gcrt0701@stanford.edu",
-            "github": "https://github.com/gcrt0701",
-            "linkedin" : "https://www.linkedin.com/in/gabriela-cortes-913a501ba/"
-        },
-        "name": "Gabriela Cortes",
-        "role": "Developer"
-
+    "farzaankaiyom":{
+       "imageSrc":"./assets/farzaan_photo.jpg",
+       "links":{
+          "email":"fkaiyom@gmail.com",
+          "github":"https://github.com/farzaank",
+          "linkedin":"https://www.linkedin.com/in/farzaankaiyom/"
+       },
+       "name":"Farzaan Kaiyom",
+       "role":"Team Lead",
+       "past":true,
+       "leadership":true
     },
-    "gracehu": {
-        "imageSrc": "./assets/grace_hu_photo.jpg",
-        "links": {
-            "email": "gracehu@stanford.edu",
-            "github": "https://github.com/gracehu0405",
-            "linkedin": "https://www.linkedin.com/in/grace-hu-0405/"
-        },
-        "name": "Grace Hu",
-        "role": "Developer"
+    "gabrielacortes":{
+       "imageSrc":"./assets/gabriela_cortes_photo.jpg",
+       "links":{
+          "email":"gcrt0701@stanford.edu",
+          "github":"https://github.com/gcrt0701",
+          "linkedin":"https://www.linkedin.com/in/gabriela-cortes-913a501ba/"
+       },
+       "name":"Gabriela Cortes",
+       "role":"Developer",
+       "past":true
     },
-    "han": {
-        "imageSrc": "./assets/han_photo.png",
-        "links": {},
-        "name": "Han-Lin Aung",
-        "role": "Treasurer/Team Lead"
+    "gracehu":{
+       "imageSrc":"./assets/grace_hu_photo.jpg",
+       "links":{
+          "email":"gracehu@stanford.edu",
+          "github":"https://github.com/gracehu0405",
+          "linkedin":"https://www.linkedin.com/in/grace-hu-0405/"
+       },
+       "name":"Grace Hu",
+       "role":"Developer",
+       "past":true
     },
-    "harisowrirajan": {
-        "imageSrc": "./assets/Hari_Sowrirajan_Photo.jpg",
-        "links": {
-            "email": "hsowrira@stanford.edu"
-        },
-        "name": "Hari Sowrirajan",
-        "role": "Team Lead"
+    "han":{
+       "imageSrc":"./assets/han_photo.png",
+       "links":{
+          
+       },
+       "name":"Han-Lin Aung",
+       "role":"Treasurer/Team Lead",
+       "past":true,
+       "leadership":true
     },
-    "hectoramador": {
-        "imageSrc": "./assets/hector_a_amador_picture.jpg",
-        "links": {
-            "email": "amhector@stanford.edu",
-            "github": "https://github.com/ImplyingICheck"
-        },
-        "name": "Hector Amador",
-        "role": "Developer"
+    "harisowrirajan":{
+       "imageSrc":"./assets/Hari_Sowrirajan_Photo.jpg",
+       "links":{
+          "email":"hsowrira@stanford.edu"
+       },
+       "name":"Hari Sowrirajan",
+       "role":"Team Lead",
+       "past":true,
+       "leadership":true
     },
-    "isabelgallegos": {
-        "imageSrc": "./assets/Isabel_Gallegos.jpg",
-        "links": {
-            "email": "iogalle@stanford.edu",
-            "linkedin": "linkedin.com/in/isabel-gallegos-297463169"
-        },
-        "name": "Isabel Gallegos",
-        "role": "Developer"
+    "hectoramador":{
+       "imageSrc":"./assets/hector_a_amador_picture.jpg",
+       "links":{
+          "email":"amhector@stanford.edu",
+          "github":"https://github.com/ImplyingICheck"
+       },
+       "name":"Hector Amador",
+       "role":"Developer",
+       "past":true
     },
-    "jacksonparell": {
-        "imageSrc": "./assets/Jackson_Parell_Photo.jpg",
-        "links": {
-            "email": "jparell@stanford.edu",
-            "linkedin": "www.linkedin.com/in/jackson-parell"
-        },
-        "name": "Jackson Parell",
-        "role": "Developer"
+    "isabelgallegos":{
+       "imageSrc":"./assets/Isabel_Gallegos.jpg",
+       "links":{
+          "email":"iogalle@stanford.edu",
+          "linkedin":"linkedin.com/in/isabel-gallegos-297463169"
+       },
+       "name":"Isabel Gallegos",
+       "role":"Developer",
+       "past":true
     },
-    "jameszheng": {
-        "imageSrc": "./assets/JamesZheng.jpeg",
-        "links": {
-            "email": "jameszhe@stanford.edu",
-            "github": "https://github.com/jameszheng405",
-            "linkedin": "https://www.linkedin.com/in/james-zheng2/"
-        },
-        "name": "James Zheng",
-        "leadership": true,
-        "role": "Financial Officer/Team Lead"
-    },    
-    "jasonzhao": {
-        "imageSrc": "./assets/jason_zhao_photo.JPG",
-        "links": {
-            "email": "jzhao23@stanford.edu",
-            "github": "https://github.com/jzhao23",
-            "linkedin": "https://www.linkedin.com/in/jasonjinzhao/"
-        },
-        "name": "Jason Zhao",
-        "role": "Developer"
+    "jacksonparell":{
+       "imageSrc":"./assets/Jackson_Parell_Photo.jpg",
+       "links":{
+          "email":"jparell@stanford.edu",
+          "linkedin":"www.linkedin.com/in/jackson-parell"
+       },
+       "name":"Jackson Parell",
+       "role":"Developer",
+       "past":true
     },
-    "jimmyle": {
-        "imageSrc": "./assets/Jimmy_Le_Photo.jpg",
-        "links": {
-            "email": "jimmyle@stanford.edu",
-            "linkedin": "https://www.linkedin.com/in/jimmykle/"
-        },
-        "name": "Jimmy Le",
-        "role": "Developer"
+    "jameszheng":{
+       "imageSrc":"./assets/JamesZheng.jpeg",
+       "links":{
+          "email":"jameszhe@stanford.edu",
+          "github":"https://github.com/jameszheng405",
+          "linkedin":"https://www.linkedin.com/in/james-zheng2/"
+       },
+       "name":"James Zheng",
+       "leadership":true,
+       "role":"Financial Officer/Team Lead",
+       "past":true
     },
-    "joannajo": {
-        "imageSrc": "./assets/joanna_jo_photo.jpg",
-        "links": {
-            "email": "joannajo@stanford.edu",
-            "github": "https://github.com/joanna-jo"
-        },
-        "name": "Joanna Jo",
-        "role": "Developer"
+    "jasonzhao":{
+       "imageSrc":"./assets/jason_zhao_photo.JPG",
+       "links":{
+          "email":"jzhao23@stanford.edu",
+          "github":"https://github.com/jzhao23",
+          "linkedin":"https://www.linkedin.com/in/jasonjinzhao/"
+       },
+       "name":"Jason Zhao",
+       "role":"Developer",
+       "past":true
     },
-    "justintinker": {
-        "imageSrc": "./assets/justin_tinker_photo.jpg",
-        "links": {
-            "email": "justin.tinker@stanford.edu",
-            "github": "http://github.com/tintinker",
-            "linkedin": "https://www.linkedin.com/in/justinatinker"
-        },
-        "name": "Justin Tinker",
-        "role": "Developer"
+    "jimmyle":{
+       "imageSrc":"./assets/Jimmy_Le_Photo.jpg",
+       "links":{
+          "email":"jimmyle@stanford.edu",
+          "linkedin":"https://www.linkedin.com/in/jimmykle/"
+       },
+       "name":"Jimmy Le",
+       "role":"Developer",
+       "past":true
     },
-    "kailiwang": {
-        "imageSrc": "./assets/kaili_wang_ctc.jpg",
-        "links": {
-            "email": "kkwang22@stanford.edu",
-            "github": "https://github.com/kkailiwang",
-            "linkedin": "www.linkedin.com/in/kaili-wang-154345121"
-        },
-        "name": "Kaili Wang",
-        "role": "Developer"
+    "joannajo":{
+       "imageSrc":"./assets/joanna_jo_photo.jpg",
+       "links":{
+          "email":"joannajo@stanford.edu",
+          "github":"https://github.com/joanna-jo"
+       },
+       "name":"Joanna Jo",
+       "role":"Developer",
+       "past":true
     },
-    "kendrickshen": {
-        "imageSrc": "./assets/kendrick_shen_photo.jpg",
-        "links": {
-            "email": "kshen6@stanford.edu",
-            "github": "https://github.com/kshen6",
-            "linkedin": "https://linkedin.com/in/kendrickshen/"
-        },
-        "name": "Kendrick Shen",
-        "role": "Team Lead"
+    "justintinker":{
+       "imageSrc":"./assets/justin_tinker_photo.jpg",
+       "links":{
+          "email":"justin.tinker@stanford.edu",
+          "github":"http://github.com/tintinker",
+          "linkedin":"https://www.linkedin.com/in/justinatinker"
+       },
+       "name":"Justin Tinker",
+       "role":"Developer",
+       "past":true
     },
-    "kevintran": {
-        "imageSrc": "./assets/KevinTranPic.jpg",
-        "links": {
-            "email": "kevtran2@stanford.edu",
-            "github": "https://github.com/kevtran2",
-            "linkedin": "https://www.linkedin.com/in/kevin-tran-b9ab83160/"
-        },
-        "name": "Kevin Tran",
-        "role": "Team Lead/Social Chair"
+    "kailiwang":{
+       "imageSrc":"./assets/kaili_wang_ctc.jpg",
+       "links":{
+          "email":"kkwang22@stanford.edu",
+          "github":"https://github.com/kkailiwang",
+          "linkedin":"www.linkedin.com/in/kaili-wang-154345121"
+       },
+       "name":"Kaili Wang",
+       "role":"Developer",
+       "past":true
     },
-    "luisulloa": {
-        "imageSrc": "./assets/ulloaLuisPhoto.JPG",
-        "links": {
-            "email": "ulloa@stanford.edu",
-            "github": "https://github.com/ulloaluis",
-            "linkedin": "https://www.linkedin.com/in/luis-ulloa/"
-        },
-        "name": "Luis Ulloa",
-        "role": "Developer"
+    "kendrickshen":{
+       "imageSrc":"./assets/kendrick_shen_photo.jpg",
+       "links":{
+          "email":"kshen6@stanford.edu",
+          "github":"https://github.com/kshen6",
+          "linkedin":"https://linkedin.com/in/kendrickshen/"
+       },
+       "name":"Kendrick Shen",
+       "role":"Team Lead",
+       "past":true,
+       "leadership":true
     },
-    "madelineliao": {
-        "imageSrc": "./assets/Madeline_Liao_Profile.jpg",
-        "links": {
-            "email": "madelineliao@stanford.edu",
-            "linkedin": "https://www.linkedin.com/in/madelineliao/"
-        },
-        "name": "Madeline Liao",
-        "role": "Developer"
+    "kevintran":{
+       "imageSrc":"./assets/KevinTranPic.jpg",
+       "links":{
+          "email":"kevtran2@stanford.edu",
+          "github":"https://github.com/kevtran2",
+          "linkedin":"https://www.linkedin.com/in/kevin-tran-b9ab83160/"
+       },
+       "name":"Kevin Tran",
+       "role":"Team Lead/Social Chair",
+       "past":true,
+       "leadership":true
     },
-    "minamahmood": {
-        "imageSrc": "./assets/mina_pic.JPG",
-        "links": {
-            "email": "minam5@stanford.edu",
-            "github": "https://github.com/minam5",
-            "linkedin": "https://www.linkedin.com/in/mina-mahmood/"
-        },
-        "name": "Mina Mahmood",
-        "role": "Developer"
+    "luisulloa":{
+       "imageSrc":"./assets/ulloaLuisPhoto.JPG",
+       "links":{
+          "email":"ulloa@stanford.edu",
+          "github":"https://github.com/ulloaluis",
+          "linkedin":"https://www.linkedin.com/in/luis-ulloa/"
+       },
+       "name":"Luis Ulloa",
+       "role":"Developer",
+       "past":true
     },
-    "nadintamer": {
-        "imageSrc": "./assets/nadin_tamer_photo.JPG",
-        "links": {
-            "email": "nadint@stanford.edu",
-            "github": "https://github.com/nadintamer",
-            "linkedin": "https://www.linkedin.com/in/nadintamer"
-        },
-        "name": "Nadin Tamer",
-        "leadership": true,
-        "role": "Co-President/Team Lead"
+    "madelineliao":{
+       "imageSrc":"./assets/Madeline_Liao_Profile.jpg",
+       "links":{
+          "email":"madelineliao@stanford.edu",
+          "linkedin":"https://www.linkedin.com/in/madelineliao/"
+       },
+       "name":"Madeline Liao",
+       "role":"Developer",
+       "past":true
     },
-    "raymondyao": {
-        "imageSrc": "./assets/raymond_yao_photo.jpg",
-        "links": {
-            "email": "ryao28@stanford.edu",
-            "github": "https://github.com/ramundoness"
-        },
-        "name": "Raymond Yao",
-        "role": "Developer"
+    "minamahmood":{
+       "imageSrc":"./assets/mina_pic.JPG",
+       "links":{
+          "email":"minam5@stanford.edu",
+          "github":"https://github.com/minam5",
+          "linkedin":"https://www.linkedin.com/in/mina-mahmood/"
+       },
+       "name":"Mina Mahmood",
+       "role":"Developer",
+       "past":true
     },
-    "rubenkrueger": {
-        "imageSrc": "./assets/ fullsizeoutput_20.jpeg",
-        "links": {
-            "email": "ruben1@stanford.edu",
-            "linkedin": "https://www.linkedin.com/in/ruben-krueger/"
-        },
-        "name": "Ruben Krueger",
-        "role": "Developer"
+    "nadintamer":{
+       "imageSrc":"./assets/nadin_tamer_photo.JPG",
+       "links":{
+          "email":"nadint@stanford.edu",
+          "github":"https://github.com/nadintamer",
+          "linkedin":"https://www.linkedin.com/in/nadintamer"
+       },
+       "name":"Nadin Tamer",
+       "leadership":true,
+       "role":"Co-President/Team Lead",
+       "past":true
     },
-    "samgorman": {
-        "imageSrc": "./assets/sam_photo.jpg",
-        "links": {
-            "email": "mailto:sgorman@stanford.edu",
-            "github": "https://github.com/samjgorman/",
-            "linkedin": "https://www.linkedin.com/in/gormansam/"
-        },
-        "name": "Sam Gorman",
-        "role": "Design Lead"
+    "raymondyao":{
+       "imageSrc":"./assets/raymond_yao_photo.jpg",
+       "links":{
+          "email":"ryao28@stanford.edu",
+          "github":"https://github.com/ramundoness"
+       },
+       "name":"Raymond Yao",
+       "role":"Developer",
+       "past":true
     },
-    "sammymohammed": {
-        "imageSrc": "./assets/sammy_mohammed.jpg",
-        "links": {
-            "email": "sammym@stanford.edu",
-            "github": "https://www.github.com/sammymohammed",
-            "linkedin": "https://www.linkedin.com/in/sammymohammed/"
-        },
-        "name": "Sammy Mohammed",
-        "role": "Developer"
+    "rubenkrueger":{
+       "imageSrc":"./assets/fullsizeoutput_20.jpeg",
+       "links":{
+          "email":"ruben1@stanford.edu",
+          "linkedin":"https://www.linkedin.com/in/ruben-krueger/"
+       },
+       "name":"Ruben Krueger",
+       "role":"Developer",
+       "past":true
     },
-    "scottxu": {
-        "imageSrc": "./assets/scott_xu.jpg",
-        "links": {
-            "email": "scottxu@stanford.edu",
-            "github": "https://github.com/zichuan-scott-xu",
-            "linkedin": "https://www.linkedin.com/in/zichuanscottxu/"
-        },
-        "name": "Scott Xu",
-        "role": "Developer"
+    "samgorman":{
+       "imageSrc":"./assets/sam_photo.jpg",
+       "links":{
+          "email":"mailto:sgorman@stanford.edu",
+          "github":"https://github.com/samjgorman/",
+          "linkedin":"https://www.linkedin.com/in/gormansam/"
+       },
+       "name":"Sam Gorman",
+       "role":"Design Lead",
+       "past":true,
+       "leadership":true
     },
-    "samsilverstein": {
-        "imageSrc": "./assets/senior4.jpeg",
-        "links": {
-            "email": "selinons@stanford.edu",
-            "github": "https://github.com/ssilverst",
-            "linkedin": "www.linkedin.com/in/samantha-silverstein-701b5b15a"
-        },
-        "name": "Sam Silverstein",
-        "role": "Service Coordinator"
+    "sammymohammed":{
+       "imageSrc":"./assets/sammy_mohammed.jpg",
+       "links":{
+          "email":"sammym@stanford.edu",
+          "github":"https://www.github.com/sammymohammed",
+          "linkedin":"https://www.linkedin.com/in/sammymohammed/"
+       },
+       "name":"Sammy Mohammed",
+       "role":"Developer",
+       "past":true
     },
-    "shawnzhang": {
-        "imageSrc": "./assets/shawn_zhang_photo.jpg",
-        "links": {
-            "email": "szhang22@stanford.edu",
-            "github": "https://github.com/szhang9246",
-            "linkedin": "https://www.linkedin.com/in/shawn-brian-zhang/"
-        },
-        "name": "Shawn Zhang",
-        "role": "Developer"
+    "scottxu":{
+       "imageSrc":"./assets/scott_xu.jpg",
+       "links":{
+          "email":"scottxu@stanford.edu",
+          "github":"https://github.com/zichuan-scott-xu",
+          "linkedin":"https://www.linkedin.com/in/zichuanscottxu/"
+       },
+       "name":"Scott Xu",
+       "role":"Developer",
+       "past":true
     },
-    "sidhikabalachandar": {
-        "imageSrc": "./assets/BalachandarSidhika.jpg",
-        "links": {
-            "email": "sidhikab@stanford.edu",
-            "linkedin": "linkedin.com/in/sidhikab "
-        },
-        "name": "Sidhika Balachandar",
-        "role": "Developer"
+    "samsilverstein":{
+       "imageSrc":"./assets/senior4.jpeg",
+       "links":{
+          "email":"selinons@stanford.edu",
+          "github":"https://github.com/ssilverst",
+          "linkedin":"www.linkedin.com/in/samantha-silverstein-701b5b15a"
+       },
+       "name":"Sam Silverstein",
+       "role":"Service Coordinator",
+       "past":true,
+       "leadership":true
     },
-    "trinitydonohugh": {
-        "imageSrc": "./assets/trinityd.jpg",
-        "links": {
-            "email": "tringd@stanford.edu",
-            "linkedin": "www.linkedin.com/in/trinity-d-2022"
-        },
-        "name": "Trinity Donohugh",
-        "role": "Team Lead"
+    "shawnzhang":{
+       "imageSrc":"./assets/shawn_zhang_photo.jpg",
+       "links":{
+          "email":"szhang22@stanford.edu",
+          "github":"https://github.com/szhang9246",
+          "linkedin":"https://www.linkedin.com/in/shawn-brian-zhang/"
+       },
+       "name":"Shawn Zhang",
+       "role":"Developer",
+       "past":true
     },
-    "tylerhong": {
-        "imageSrc": "./assets/TylerHongProfilePicture.jpg",
-        "links": {
-            "email": "tyhong@stanford.edu",
-            "linkedin": "linkedin.com/in/tyhong"
-        },
-        "name": "Tyler Hong",
-        "role": "Designer"
+    "sidhikabalachandar":{
+       "imageSrc":"./assets/BalachandarSidhika.jpg",
+       "links":{
+          "email":"sidhikab@stanford.edu",
+          "linkedin":"linkedin.com/in/sidhikab "
+       },
+       "name":"Sidhika Balachandar",
+       "role":"Developer",
+       "past":true
     },
-    "yuguan": {
-        "imageSrc": "./assets/yuguan_photo.jpg",
-        "links": {},
-        "name": "Yuguan Xing",
-        "role": "Co-President"
+    "trinitydonohugh":{
+       "imageSrc":"./assets/trinityd.jpg",
+       "links":{
+          "email":"tringd@stanford.edu",
+          "linkedin":"www.linkedin.com/in/trinity-d-2022"
+       },
+       "name":"Trinity Donohugh",
+       "role":"Team Lead",
+       "past":true,
+       "leadership":true
     },
-    "cpondoc": {
-        "imageSrc": "./assets/PondocProfile.jpg",
-        "links": {
-            "email": "clpondoc@stanford.edu",
-            "github": "https://github.com/cpondoc",
-            "linkedin": "https://www.linkedin.com/in/pondoc/"
-        },
-        "name": "Christopher Pondoc",
-        "role": "Developer"
+    "tylerhong":{
+       "imageSrc":"./assets/TylerHongProfilePicture.jpg",
+       "links":{
+          "email":"tyhong@stanford.edu",
+          "linkedin":"linkedin.com/in/tyhong"
+       },
+       "name":"Tyler Hong",
+       "role":"Designer",
+       "past":true,
+       "leadership":true
     },
-    "jeremykim": {
-        "imageSrc": "./assets/JeremyKim.jpg",
-        "links": {
-            "email": "jk23541@stanford.edu",
-            "github": "https://github.com/jrmkim50",
-            "linkedin": "https://www.linkedin.com/in/jeremy-kim-2b6a1215a/"
-        },
-        "name": "Jeremy Kim",
-        "role": "Developer"
+    "yuguan":{
+       "imageSrc":"./assets/yuguan_photo.jpg",
+       "links":{
+          
+       },
+       "name":"Yuguan Xing",
+       "role":"Co-President",
+       "past":true,
+       "leadership":true
+    },
+    "cpondoc":{
+       "imageSrc":"./assets/PondocProfile.jpg",
+       "links":{
+          "email":"clpondoc@stanford.edu",
+          "github":"https://github.com/cpondoc",
+          "linkedin":"https://www.linkedin.com/in/pondoc/"
+       },
+       "name":"Christopher Pondoc",
+       "role":"Developer",
+       "past":true
+    },
+    "jeremykim":{
+       "imageSrc":"./assets/JeremyKim.jpg",
+       "links":{
+          "email":"jk23541@stanford.edu",
+          "github":"https://github.com/jrmkim50",
+          "linkedin":"https://www.linkedin.com/in/jeremy-kim-2b6a1215a/"
+       },
+       "name":"Jeremy Kim",
+       "role":"Developer",
+       "past":true
+    },
+    "dannysallis":{
+      "imageSrc":"./assets/DannySallis.jpg",
+      "links":{
+         "email":"dsallis@stanford.edu",
+         "github":"https://github.com/danny-sallis"
+      },
+      "name":"Danny Sallis",
+      "role":"Co-President/Team Lead",
+      "past":false,
+      "leadership":true
+    },
+    "aaronwan":{
+      "imageSrc":"./assets/AaronWan.jpg",
+      "links":{
+         "email":"aaronwan@stanford.edu",
+         "github":"https://github.com/aaronlwan",
+         "linkedin": "https://www.linkedin.com/in/aaron-wan-044303195/"
+      },
+      "name":"Aaron Wan",
+      "role":"Co-President/SOURCE Team Lead",
+      "past":false,
+      "leadership":true
+    },
+    "cullenoconnell":{
+      "imageSrc":"./assets/CullenO'Connell.jpg",
+      "links":{
+         "email":"cullenoc@stanford.edu",
+         "github":"https://github.com/cullenoc"
+      },
+      "name":"Cullen O'Connell",
+      "role":"Financial Officer/Tarjimly Team Lead",
+      "past":false,
+      "leadership":true
+    },
+    "winniechen":{
+      "imageSrc":"./assets/WinnieChen.jpg",
+      "links":{
+         "email":"winniecc@stanford.edu",
+         "linkedin":"https://www.linkedin.com/in/winniecc"
+      },
+      "name":"Winnie Chen",
+      "role":"Oppia Team Lead",
+      "past":false,
+      "leadership":true
     }
-}
+ }

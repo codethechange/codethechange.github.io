@@ -2,14 +2,14 @@
   <div id="about-content">
     <h3 id="margins">We’re a supportive team that emphasizes growth above all.</h3>
     <div class="row white-bg">
-      <h1 class="margin-top title" style="color: #ffaf40">Leadership</h1>
+      <h1 class="margin-top title" style="color: #ffaf40">Current Leadership</h1>
     </div>
     <div class="profile-container row white-bg">
       <profile-card id="card" :color="'orange'" v-for="person in leadership" :key="person.name" :name="person.name" :imageSrc="person.imageSrc" :position="person.role" :links="person.links" />
     </div>
     <div v-for="team in projectTeams" :key="team.name" class="white-bg">
       <div class="row">
-        <h3 class="margin-top project-team" :style="{ color: colors['bold-' + team.color] }">PROJECT TEAM:</h3>
+        <h3 class="margin-top project-team" :style="{ color: colors['bold-' + team.color] }">CURRENT PROJECT TEAM:</h3>
       </div>
       <div class="row">
         <h1 class="title" :style="{ color: colors['bold-' + team.color] }">{{ team.name }}</h1>
@@ -17,6 +17,18 @@
       <div class="profile-container row">
         <profile-card id="card" v-for="person in team.people" :color="team.color" :key="person.name" :name="person.name" :imageSrc="person.imageSrc" :position="person.role" :links="person.links" />
       </div>
+    </div>
+    <div class="row white-bg">
+      <h1 class="margin-top past" style="color: #ffaf40">Past Leadership</h1>
+    </div>
+    <div class="profile-container row white-bg">
+      <profile-card id="card" :color="'orange'" v-for="person in pastLeadership" :key="person.name" :name="person.name" :imageSrc="person.imageSrc" :position="person.role" :links="person.links" />
+    </div>
+    <div class="row white-bg">
+      <h1 class="margin-top past" style="color: #ffaf40">Past Developers</h1>
+    </div>
+    <div class="profile-container row white-bg">
+      <profile-card id="card" :color="'orange'" v-for="person in pastMembers" :key="person.name" :name="person.name" :imageSrc="person.imageSrc" :position="person.role" :links="person.links" />
     </div>
   </div>
 </template>
@@ -37,7 +49,9 @@ export default {
       if (project.wip && project.team.length > 0) {
         let teamPeople = []
         for (let person of project.team) {
-          teamPeople.push(people[person])
+          if (!people[person].past) {
+            teamPeople.push(people[person])
+          }
         }
         project.people = teamPeople
         project.color = selColors[i++ % selColors.length]
@@ -46,13 +60,27 @@ export default {
     }
     let leadership = []
     for (let person in people) {
-      if (people[person].leadership) {
+      if (people[person].leadership && !people[person].past) {
         leadership.push(people[person])
+      }
+    }
+    let pastLeadership = []
+    for (let person in people) {
+      if (people[person].leadership && people[person].past) {
+        pastLeadership.push(people[person])
+      }
+    }
+    let pastMembers = []
+    for (let person in people) {
+      if (!people[person].leadership && people[person].past) {
+        pastMembers.push(people[person])
       }
     }
     return {
       leadership: leadership,
       projectTeams: projectTeams,
+      pastLeadership: pastLeadership,
+      pastMembers: pastMembers,
       colors: colors
     }
   }
@@ -113,6 +141,15 @@ $people-left-margin: 75px;
 
 .row {
   margin: 0;
+}
+
+.past {
+  margin-left: $people-left-margin;
+  font-family: Comfortaa;
+  font-size: 3em;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 5vh;
 }
 
 #margins {
