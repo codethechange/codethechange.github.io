@@ -565,5 +565,179 @@
       "role":"Oppia Team Lead",
       "past":false,
       "leadership":true
+    },
+    "eleanorpeng":{
+      "imageSrc":"./assets/EleanorPeng.jpg",
+      "links":{
+         "email":"eleanor.peng@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/eleanorpeng/",
+         "github": "https://github.com/eleanorpeng"
+      },
+      "name":"Eleanor Peng",
+      "role":"Oppia Developer",
+      "past":false,
+      "leadership":false
+    },
+    "genekim": {
+      "imageSrc":"./assets/GeneKim.jpg",
+      "links":{
+         "email":"gene.sh.kim@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/geneshkim/",
+         "github": "https://github.com/geneshkim"
+      },
+      "name":"Gene Kim",
+      "role":"Oppia Developer",
+      "past":false,
+      "leadership":false
+    },
+    "simonkim": {
+      "imageSrc":"./assets/SimonKim.jpg",
+      "links":{
+         "email":"ksimon12@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/seungwoo-simon-kim/",
+         "github": " https://github.com/SeKim12"
+      },
+      "name":"Simon Kim",
+      "role":"Oppia Developer",
+      "past":false,
+      "leadership":false
+    },
+    "anushehchaudry": {
+      "imageSrc":"./assets/AnushehChaudry.jpg",
+      "links":{
+         "email": "anusheh@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/anushehchaudry",
+         "github": " https://github.com/anushehchaudry"
+      },
+      "name":"Anusheh Chaudry",
+      "role":"Tarjimly Developer",
+      "past":false,
+      "leadership":false
+    },
+    "sarahbarragan": {
+      "imageSrc":"./assets/SarahBarragan.jpg",
+      "links":{
+         "email": "sabarrag@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/sarah-barragan-980b6b228/",
+         "github": "https://github.com/sabarrag"
+      },
+      "name":"Sarah Barragan",
+      "role":"Tarjimly Developer",
+      "past":false,
+      "leadership":false
+    },
+    "hannahclay": {
+      "imageSrc":"./assets/HannahClay.jpg",
+      "links":{
+         "email": "hclay116@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/hannahClay116/",
+         "github": "https://github.com/hclay116"
+      },
+      "name":"Hannah Clay",
+      "role":"Tarjimly Developer",
+      "past":false,
+      "leadership":false
+    },
+    "malinacalarco": {
+      "imageSrc":"./assets/MalinaCalarco.jpg",
+      "links":{
+         "email": "malinac@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/malinacalarco/"
+      },
+      "name":"Malina Calarco",
+      "role":"Tarjimly Developer",
+      "past":false,
+      "leadership":false
+    },
+    "melissaliu": {
+      "imageSrc":"./assets/MelissaLiu.jpg",
+      "links":{
+         "email": "mliu1785@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/melissa6liu/",
+         "github": "https://github.com/melissahliu"
+      },
+      "name":"Melissa Liu",
+      "role":"SOURCE Developer",
+      "past":false,
+      "leadership":false
+    },
+    "brianho": {
+      "imageSrc":"./assets/BrianHo.jpg",
+      "links":{
+         "email": "brnho@stanford.edu",
+         "github": "https://github.com/brnho"
+      },
+      "name":"Brian Ho",
+      "role":"SOURCE Developer",
+      "past":false,
+      "leadership":false
+    },
+    "dylanlim": {
+      "imageSrc":"./assets/DylanLim.jpg",
+      "links":{
+         "email": "dylanlim@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/dylanllim/",
+         "github": "https://github.com/oOTigger"
+      },
+      "name":"Dylan Lim",
+      "role":"SOURCE Developer",
+      "past":false,
+      "leadership":false
+    },
+    "sherylhsu": {
+      "imageSrc":"./assets/SherylHsu.jpg",
+      "links":{
+         "email": "sherylh@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/sheryl-hsu-83b84a183/",
+         "github": "https://sher222.github.io"
+      },
+      "name":"Sheryl Hsu",
+      "role":"SOURCE Developer",
+      "past":false,
+      "leadership":false
+    },
+    "nicolesegaran": {
+      "imageSrc":"./assets/NoPhoto.jpg",
+      "links":{
+         "email": "nicolese@stanford.edu",
+         "linkedin": "https://www.linkedin.com/in/nicole-segaran/",
+         "github": "https://github.com/nsegaran"
+      },
+      "name":"Nicole Segaran",
+      "role":"Oppia Developer",
+      "past":false,
+      "leadership":false
+    },
+    "caryxiao": {
+      "imageSrc":"./assets/CaryXiao.jpg",
+      "links":{
+         "email": "caryxiao@stanford.edu",
+         "linkedin": "https://linkedin.com/in/cary-xiao",
+         "github": "https://github.com/caryxiao1"
+      },
+      "name":"Cary Xiao",
+      "role":"Oppia Developer",
+      "past":false,
+      "leadership":false
+    },
+    "sunnycui": {
+      "imageSrc":"./assets/SunnyCui.jpg",
+      "links":{
+         "email": "sunny.work.2002@gmail.com"
+      },
+      "name":"Sunny Cui",
+      "role":"Oppia Developer",
+      "past":false,
+      "leadership":false
+    },
+    "youngchen": {
+      "imageSrc":"./assets/YoungChen.jpg",
+      "links":{
+         "linkedin": "https://www.linkedin.com/in/young-chen2/"
+      },
+      "name":"Young Chen",
+      "role":"SOURCE Developer",
+      "past":false,
+      "leadership":false
     }
  }
