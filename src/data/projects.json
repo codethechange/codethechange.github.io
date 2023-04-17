@@ -192,7 +192,8 @@
             "simonkim",
             "nicolesegaran",
             "caryxiao",
-            "sunnycui"
+            "sunnycui",
+            "sherylhsu"
         ],
         "wip": true,
         "year": 2021
@@ -259,7 +260,7 @@
         "organization": "Tarjimly",
         "summary": "Tarjimly provides humanitarian assistance to refugees struggling with language barriers by connecting them with live translators.",
         "team": ["cullenoconnell", "anushehchaudry", "sarahbarragan", "hannahclay", "malinacalarco"],
-        "wip": true,
+        "wip": false,
         "year": "2020"
     },
     {
@@ -310,7 +311,7 @@
     {
         "assets": [
             {
-                "caption": "A proposed design of SOURCE's energy reccomendation engine.",
+                "caption": "A proposed design of SOURCE's energy recommendation engine.",
                 "src": "./assets/sourcedesign.jpg"
             }
         ],
@@ -321,11 +322,26 @@
         "featured": true,
         "icon": null,
         "name": "SOURCE",
-        "narrative": "<p>For the 2022-23 academic year, we will help SOURCE develop their energy project recommendation engine, user and vendor dashboards, as well as their energy project marketplace. </p><p>        For         additional information about SOURCE's mission, visit         <a href=\"https://www.electricitysource.co/\">electricitysource.co</a></p>",
+        "narrative": "<p>For the 2022-23 academic year, we are helping SOURCE develop their energy project recommendation engine, user and vendor dashboards, as well as their energy project marketplace. </p><p>        For         additional information about SOURCE's mission, visit         <a href=\"https://www.electricitysource.co/\">electricitysource.co</a></p>",
         "organization": "SOURCE",
         "summary": "SOURCE is an early stage startup founded by Stanford graduate students aiming to create a platform for users to access high-quality, sustainable energy projects hassle-free.",
         "team": [
-            "aaronwan", "melissaliu", "brianho", "dylanlim", "sherylhsu", "youngchen"
+            "aaronwan", "melissaliu", "brianho", "dylanlim", "youngchen", "katherinewong"
+        ],
+        "wip": true,
+        "year": "2022"
+    },
+    {
+        "background": "./assets/kmindlogo.png",
+        "bullets": [
+            "Kmind is an online education company based in the Bay Area. Kmind strives to offer high-quality K-12 education services in a variety of subjects including math, science, reading, writing, and public speaking."
+        ],
+        "name": "Kmind",
+        "featured": true,
+        "narrative": "<p>For the 2022-23 academic year, we are helping Kmind build their course management system. Through this system, we hope to aid Kmind's course administrators in managing course schedules, help teachers manage the courses that they are teaching, and also help students and parents to have a better-organized and supported learning experience.</p>",
+        "summary": "Kmind is an online education company based in the Bay Area. Kmind strives to offer high-quality K-12 education services in a variety of subjects including math, science, reading, writing, and public speaking.",
+        "team": [
+            "cullenoconnell", "anushehchaudry", "sarahbarragan", "hannahclay", "malinacalarco"
         ],
         "wip": true,
         "year": "2022"

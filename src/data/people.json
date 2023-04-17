@@ -551,7 +551,7 @@
          "github":"https://github.com/cullenoc"
       },
       "name":"Cullen O'Connell",
-      "role":"Financial Officer/Tarjimly Team Lead",
+      "role":"Financial Officer/Kmind Team Lead",
       "past":false,
       "leadership":true
     },
@@ -610,7 +610,7 @@
          "github": " https://github.com/anushehchaudry"
       },
       "name":"Anusheh Chaudry",
-      "role":"Tarjimly Developer",
+      "role":"Kmind Developer",
       "past":false,
       "leadership":false
     },
@@ -622,7 +622,7 @@
          "github": "https://github.com/sabarrag"
       },
       "name":"Sarah Barragan",
-      "role":"Tarjimly Developer",
+      "role":"Kmind Developer",
       "past":false,
       "leadership":false
     },
@@ -634,7 +634,7 @@
          "github": "https://github.com/hclay116"
       },
       "name":"Hannah Clay",
-      "role":"Tarjimly Developer",
+      "role":"Kmind Developer",
       "past":false,
       "leadership":false
     },
@@ -645,7 +645,7 @@
          "linkedin": "https://www.linkedin.com/in/malinacalarco/"
       },
       "name":"Malina Calarco",
-      "role":"Tarjimly Developer",
+      "role":"Kmind Developer",
       "past":false,
       "leadership":false
     },
@@ -692,7 +692,7 @@
          "github": "https://sher222.github.io"
       },
       "name":"Sheryl Hsu",
-      "role":"SOURCE Developer",
+      "role":"Oppia Developer",
       "past":false,
       "leadership":false
     },
@@ -739,5 +739,17 @@
       "role":"SOURCE Developer",
       "past":false,
       "leadership":false
+    },
+    "katherinewong": {
+      "imageSrc":"./assets/KatherineWong.png",
+      "links": {
+         "linkedin": "https://www.linkedin.com/in/katherine-wong-stanford/",
+         "email": "kvwong@stanford.edu",
+         "github": "https://github.com/katherinevivianw"
+      },
+      "name": "Katherine Wong",
+      "role": "SOURCE Developer",
+      "past": false,
+      "leadership": false
     }
  }
